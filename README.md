@@ -2,10 +2,6 @@ Expense Tracker [![Java](https://img.shields.io/badge/Java-17-blue)](https://www
 
 A simple command-line expense tracker built in Java. Track expenses by category, view trends, and analyze spending.
 
-## Table of Contents  - [Features](#features) - [Technologies](#technologies) - [Setup](#setup) - [Usage](#usage) - [Testing](#testing) - [Project Structure](#project-structure) - [Architecture](#architecture) - [Seed Data](#seed-data) - [Contributing](#contributing) - [License](#license)
-
-## Features  - Add expenses with category, amount, and date - View total expenses and by category - View expense trends over time - Identify highest and lowest spending categories - In-memory storage, optimized O(1) lookups ## Technologies  - Java 17 - Maven - JUnit 5 (unit tests) - Spotless (code formatting) - Checkstyle (code quality) ## Setup Clone and build:
-
 ```bash
 git clone https://github.com/YOUR_USERNAME/expense-tracker.git
 cd expense-tracker
